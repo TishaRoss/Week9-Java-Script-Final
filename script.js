@@ -15,7 +15,7 @@
  * -Hand
  * 
  * Logic to actually play tghe game...we can use a deck in any card game, but we're plaing WAR.
- * -Ways to compare the cards..number vaues in each card  * 
+ * -Ways to compare the cards..number vaules in each card  * 
  */
 
 //Deck class
